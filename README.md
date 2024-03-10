@@ -3,7 +3,7 @@
 ## Description
 
  This calendar application allows a user to save events for each hour of a typical working day (9am–5pm).
- An employee with a busy schedule can add important events to a daily planner ans can manage time effectively.
+ An employee with a busy schedule can add important events to a daily planner and can manage time effectively.
 
  ## Installation 
 
