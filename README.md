@@ -11,7 +11,7 @@
 
  ## Acceptance Criteria
 
- In this daily planner to craete a schedule,
+ In this daily planner to create a schedule,
  when you open the planner,then current day is displayed at the top of the calender.
 
  After scrolling down, the time blocks for standard business hours of 9am to 5pm are presented.
